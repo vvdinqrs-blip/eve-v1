@@ -1,0 +1,5 @@
+.env
+contracts/*.json
+*.md
+!README.md
+deployment.json
